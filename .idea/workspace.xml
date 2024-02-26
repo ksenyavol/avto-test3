@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2471dc89-e079-4b76-8635-e3f750ae8e55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/demo/spoonacular/ResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/AdministrativeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Elevation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/GeoPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Imperial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Metric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/SupplementalAdminArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/location/TimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/DailyForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Headline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Night.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/accuweather/weather/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/spoonacular/ClassifyCuisineDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/home/spoonacular/IngredientSubstitutesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/location/AdministrativeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/location/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/DailyForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Headline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Night.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/accuweather/weather/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/ConvertAmountsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/RandomRecipesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/SimilarRecipesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/AnalyzedInstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/ExtendedIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Measures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Metric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/OrgMaxLesson3Seminar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/lesson3/seminar/spoonacular/recipers/Us.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tests.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/RestAssuredExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/accuweather/AccuweatherAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/accuweather/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/accuweather/LogDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/spoonacular/DemoTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/spoonacular/LogDemoTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/demo/spoonacular/SpoonacularAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/accuweather/AccuweatherAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/accuweather/GetLocationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/accuweather/GetWeatherFiveDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/accuweather/GetWeatherOneDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/accuweather/GetWeatherTenDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/spoonacular/ClassifyCuisineTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/spoonacular/IngredientSubstitutesTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/home/spoonacular/SpoonacularAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/accuweather/AccuweatherAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/accuweather/GetLocationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/accuweather/GetWeatherFiveDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/accuweather/GetWeatherTenDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/spoonacular/ConvertAmountsTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/spoonacular/RandomRecipesTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/spoonacular/SimilarRecipesTestSpoonacular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/lesson3/seminar/spoonacular/SpoonacularAbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_demo.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_home.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/accuweather_seminar.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/demo_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/home_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/seminar_spoonacular.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/spoonacular.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ctyqKe3lMsgCY8mHl1nj393ziy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.GetLocationTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbook/IdeaProjects/Seminar3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/macbook/IdeaProjects/Seminar3/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.max.lesson3.home.accuweather" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2471dc89-e079-4b76-8635-e3f750ae8e55" name="Changes" comment="" />
+      <created>1708945361417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708945361417</updated>
+      <workItem from="1708945362644" duration="2058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
