@@ -43,3 +43,4 @@ public class LogDemoTest extends AccuweatherAbstractTest{
                 .statusCode(400);
     }
 }
+

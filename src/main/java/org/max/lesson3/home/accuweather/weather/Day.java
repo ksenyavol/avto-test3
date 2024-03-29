@@ -75,3 +75,4 @@ public class Day {
         this.precipitationIntensity = precipitationIntensity;
     }
 }
+

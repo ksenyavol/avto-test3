@@ -1,4 +1,3 @@
-
 package org.max.lesson3.home.accuweather.weather;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

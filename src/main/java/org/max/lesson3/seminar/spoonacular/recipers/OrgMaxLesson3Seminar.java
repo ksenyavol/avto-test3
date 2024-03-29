@@ -469,3 +469,4 @@ public class OrgMaxLesson3Seminar {
         this.spoonacularSourceUrl = spoonacularSourceUrl;
     }
 }
+

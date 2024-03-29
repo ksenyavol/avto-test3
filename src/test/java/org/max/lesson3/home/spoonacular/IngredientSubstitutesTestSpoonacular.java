@@ -32,3 +32,4 @@ public class IngredientSubstitutesTestSpoonacular extends SpoonacularAbstractTes
     }
 }
 
+

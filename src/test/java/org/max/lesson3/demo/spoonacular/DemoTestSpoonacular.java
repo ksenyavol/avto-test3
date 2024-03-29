@@ -259,5 +259,4 @@ public class DemoTestSpoonacular extends SpoonacularAbstractTest {
         assertThat(response.getCuisine(), containsString("American"));
     }
 
-
 }

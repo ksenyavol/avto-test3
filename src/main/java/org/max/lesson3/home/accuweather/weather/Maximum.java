@@ -48,6 +48,5 @@ public class Maximum {
     public void setUnitType(Integer unitType) {
         this.unitType = unitType;
     }
-
 }
 

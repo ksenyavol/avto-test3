@@ -1,4 +1,3 @@
-
 package org.max.lesson3.seminar.spoonacular.recipers;
 
 import java.util.List;

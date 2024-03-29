@@ -36,3 +36,4 @@ public class AdministrativeArea {
         this.localizedName = localizedName;
     }
 }
+

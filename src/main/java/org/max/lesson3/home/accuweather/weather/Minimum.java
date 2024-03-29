@@ -48,6 +48,5 @@ public class Minimum {
     public void setUnitType(Integer unitType) {
         this.unitType = unitType;
     }
-
 }
 

@@ -1,4 +1,3 @@
-
 package org.max.lesson3.seminar.spoonacular.recipers;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
