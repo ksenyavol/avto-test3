@@ -33,3 +33,6 @@ public class SimilarRecipesTestSpoonacular extends SpoonacularAbstractTest {
         });
     }
 }
+
+
+

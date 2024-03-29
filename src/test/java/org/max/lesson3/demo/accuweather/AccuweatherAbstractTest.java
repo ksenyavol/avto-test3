@@ -9,7 +9,6 @@ import java.io.InputStream;
 import java.util.Properties;
 
 public abstract class AccuweatherAbstractTest {
-
     static Properties prop = new Properties();
     private static InputStream configFile;
     private static String apiKey;
@@ -34,5 +33,5 @@ public abstract class AccuweatherAbstractTest {
     public static String getBaseUrl() {
         return baseUrl;
     }
-
 }
+

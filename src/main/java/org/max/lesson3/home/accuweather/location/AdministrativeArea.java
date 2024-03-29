@@ -101,5 +101,5 @@ public class AdministrativeArea {
     public void setCountryID(String countryID) {
         this.countryID = countryID;
     }
-
 }
+

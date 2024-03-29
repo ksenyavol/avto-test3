@@ -170,5 +170,5 @@ public class ExtendedIngredient {
     public void setMeasures(Measures measures) {
         this.measures = measures;
     }
-
 }
+

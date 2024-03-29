@@ -75,5 +75,5 @@ public class Day {
     public void setPrecipitationIntensity(String precipitationIntensity) {
         this.precipitationIntensity = precipitationIntensity;
     }
-
 }
+

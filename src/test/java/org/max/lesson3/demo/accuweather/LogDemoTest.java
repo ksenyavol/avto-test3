@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.given;
 
 public class LogDemoTest extends AccuweatherAbstractTest{
-
     @Test
     void logRequestTest() {
         given().log().parameters().log().method()

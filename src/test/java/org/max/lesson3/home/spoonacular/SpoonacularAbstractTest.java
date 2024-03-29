@@ -34,5 +34,6 @@ public abstract class SpoonacularAbstractTest {
     public static String getBaseUrl() {
         return baseUrl;
     }
-
 }
+
+

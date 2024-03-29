@@ -1,4 +1,3 @@
-
 package org.max.lesson3.seminar.spoonacular.recipers;
 
 import java.util.List;
@@ -469,5 +468,4 @@ public class OrgMaxLesson3Seminar {
     public void setSpoonacularSourceUrl(String spoonacularSourceUrl) {
         this.spoonacularSourceUrl = spoonacularSourceUrl;
     }
-
 }

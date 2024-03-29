@@ -4,7 +4,6 @@ package org.max.lesson3.home.accuweather.location;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
     "ID",
@@ -51,3 +50,4 @@ public class Region {
     }
 
 }
+

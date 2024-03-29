@@ -8,7 +8,6 @@ import static io.restassured.RestAssured.given;
     Простой демо тест
  */
 public class RestAssuredExampleTest {
-
     @Test
     void test() {
         given()
@@ -16,3 +15,5 @@ public class RestAssuredExampleTest {
         .then().statusCode(200);
     }
 }
+
+

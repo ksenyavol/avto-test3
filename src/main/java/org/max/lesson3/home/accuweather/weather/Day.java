@@ -14,7 +14,6 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "PrecipitationIntensity"
 })
 public class Day {
-
     @JsonProperty("Icon")
     private Integer icon;
     @JsonProperty("IconPhrase")
@@ -75,5 +74,4 @@ public class Day {
     public void setPrecipitationIntensity(String precipitationIntensity) {
         this.precipitationIntensity = precipitationIntensity;
     }
-
 }

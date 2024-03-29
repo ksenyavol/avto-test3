@@ -18,7 +18,6 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "Link"
 })
 public class Headline {
-
     @JsonProperty("EffectiveDate")
     private String effectiveDate;
     @JsonProperty("EffectiveEpochDate")
@@ -127,5 +126,4 @@ public class Headline {
     public void setLink(String link) {
         this.link = link;
     }
-
 }

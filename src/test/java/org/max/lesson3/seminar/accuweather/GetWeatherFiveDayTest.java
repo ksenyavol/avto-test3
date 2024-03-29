@@ -29,3 +29,6 @@ public class GetWeatherFiveDayTest extends AccuweatherAbstractTest {
         Assertions.assertEquals(5,response.getDailyForecasts().size());
     }
 }
+
+
+

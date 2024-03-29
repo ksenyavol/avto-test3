@@ -26,6 +26,7 @@ public class ConvertAmountsTestSpoonacular extends SpoonacularAbstractTest {
                 .body().as(ConvertAmountsDto.class);
 
         Assertions.assertEquals(response.getTargetAmount(),312.5);
-
     }
 }
+
+

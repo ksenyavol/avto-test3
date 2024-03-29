@@ -101,5 +101,5 @@ public class Location {
     public void setAdministrativeArea(AdministrativeArea administrativeArea) {
         this.administrativeArea = administrativeArea;
     }
-
 }
+

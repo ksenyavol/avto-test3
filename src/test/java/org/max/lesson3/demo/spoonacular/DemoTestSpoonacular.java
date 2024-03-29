@@ -17,7 +17,6 @@ import static org.hamcrest.Matchers.lessThan;
 
 
 public class DemoTestSpoonacular extends SpoonacularAbstractTest {
-
     @Test
     void getExampleTest() {
         given()
@@ -34,7 +33,6 @@ public class DemoTestSpoonacular extends SpoonacularAbstractTest {
                 .then()
                 .statusCode(200);
     }
-
     @Test
     void getSpecifyingRequestDataTest() {
         given()
@@ -260,7 +258,6 @@ public class DemoTestSpoonacular extends SpoonacularAbstractTest {
                 .as(ResponseDTO.class);
         assertThat(response.getCuisine(), containsString("American"));
     }
-
 
 
 }

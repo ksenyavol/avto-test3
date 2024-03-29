@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.given;
 
 public class LogDemoTestSpoonacular extends SpoonacularAbstractTest {
-
     @Test
     void logRequestTest() {
         given().log().parameters().log().method()
@@ -42,3 +41,5 @@ public class LogDemoTestSpoonacular extends SpoonacularAbstractTest {
                 .statusCode(400);
     }
 }
+
+

@@ -17,7 +17,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.lessThan;
 
 public class DemoTest extends AccuweatherAbstractTest{
-
     @Test
     void getExampleTest() {
         given()
@@ -28,7 +27,6 @@ public class DemoTest extends AccuweatherAbstractTest{
                 .statusCode(200);
 
     }
-
     @Test
     void getSpecifyingRequestDataTest() {
         given()
@@ -114,8 +112,7 @@ public class DemoTest extends AccuweatherAbstractTest{
 
         JsonPath response = given()
                 .when()
-                .request(Method.GET,getBaseUrl()+"/locations/{version}/regions?" +
-                        "apikey={apiKey}", "v1", getApiKey())
+                .request(Method.GET)
                 .body()
                 .jsonPath();
 
@@ -128,8 +125,7 @@ public class DemoTest extends AccuweatherAbstractTest{
                 .body("[0].LocalizedName", equalTo("Africa"))
                 .body("[0].EnglishName", equalTo("Africa"))
                 .when()
-                .request(Method.GET,getBaseUrl()+"/locations/{version}/regions?" +
-                        "apikey={apiKey}", "v1", getApiKey())
+                .request(Method.GET)
                 .then()
                 .assertThat()
                 //.cookie("cookieName", "cookieValue")
@@ -141,3 +137,4 @@ public class DemoTest extends AccuweatherAbstractTest{
 
     }
 }
+

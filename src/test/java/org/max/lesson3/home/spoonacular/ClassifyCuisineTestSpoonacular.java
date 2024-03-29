@@ -31,3 +31,6 @@ public class ClassifyCuisineTestSpoonacular extends SpoonacularAbstractTest {
         Assertions.assertEquals(response.getCuisines().size(),3);
     }
 }
+
+
+

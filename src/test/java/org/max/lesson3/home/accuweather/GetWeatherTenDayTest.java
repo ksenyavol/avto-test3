@@ -21,3 +21,4 @@ public class GetWeatherTenDayTest extends AccuweatherAbstractTest {
                 .statusCode(401);
     }
 }
+

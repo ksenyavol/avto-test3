@@ -29,3 +29,6 @@ public class GetLocationTest extends AccuweatherAbstractTest {
         Assertions.assertEquals("Samara", response.get(0).getLocalizedName());
     }
 }
+
+
+

@@ -87,5 +87,5 @@ public class SimilarRecipesDto {
     public void setSourceUrl(String sourceUrl) {
         this.sourceUrl = sourceUrl;
     }
-
 }
+

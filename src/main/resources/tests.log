@@ -651,3 +651,6 @@
 695  [main] DEBUG o.m.home.accu.GetWeatherOneDayTest - http клиент создан
 727  [main] DEBUG org.max.home.accu.AbstractTest - convertResponseToString method call
 839  [main] INFO  org.max.home.accu.AbstractTest - Stop WireMockServer
+
+
+

@@ -29,3 +29,6 @@ public class GetLocationTest extends AccuweatherAbstractTest{
         Assertions.assertEquals("Moscow", response.get(0).getEnglishName());
     }
 }
+
+
+

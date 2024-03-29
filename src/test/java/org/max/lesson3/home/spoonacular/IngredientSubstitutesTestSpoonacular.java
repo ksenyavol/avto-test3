@@ -31,3 +31,4 @@ public class IngredientSubstitutesTestSpoonacular extends SpoonacularAbstractTes
         Assertions.assertEquals(response.getIngredient(),"butter");
     }
 }
+
