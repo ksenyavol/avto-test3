@@ -37,3 +37,4 @@ public class Temperature {
         this.unit = unit;
     }
 }
+

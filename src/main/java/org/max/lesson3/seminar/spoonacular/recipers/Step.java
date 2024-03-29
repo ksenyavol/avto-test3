@@ -78,7 +78,6 @@ public class Step {
     public void setLength(Length length) {
         this.length = length;
     }
-
 }
 
 

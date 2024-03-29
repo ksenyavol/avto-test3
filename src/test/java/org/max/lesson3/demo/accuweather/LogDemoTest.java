@@ -44,3 +44,4 @@ public class LogDemoTest extends AccuweatherAbstractTest{
     }
 }
 
+

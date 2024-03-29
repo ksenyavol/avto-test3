@@ -32,3 +32,4 @@ public class GetWeatherOneDayTest extends AccuweatherAbstractTest {
 }
 
 
+

@@ -57,3 +57,4 @@ public class ResponseDTO {
         this.additionalProperties = additionalProperties;
     }
 }
+

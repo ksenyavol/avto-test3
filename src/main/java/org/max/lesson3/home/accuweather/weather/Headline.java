@@ -126,3 +126,4 @@ public class Headline {
         this.link = link;
     }
 }
+
